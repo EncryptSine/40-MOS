@@ -33,3 +33,15 @@
 
 ## 📸 Gallery
 *(Add renders / build photos here)*
+
+---
+
+## 🔮 Future Updates / Ideas
+- 💡 **Backlight LEDs** under switches  
+- 🔔 **Layer indicator LEDs** (different colors per layer)  
+- 🔄 **Hot-swap sockets** (instead of soldering switches directly)  
+- 📏 **SMD components** (instead of THT for a cleaner build)  
+- ✨ **Edge/sandwich LEDs** between plates for an underglow effect  
+- 🎛️ **Extra potentiometers or rotary encoders** for more controls  
+
+---
