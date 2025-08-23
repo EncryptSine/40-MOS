@@ -57,7 +57,12 @@
 ---
 
 ## 📸 Gallery
-*(Add renders / build photos here)*
+![Top view](images/top.png)
+![Angled View](images/diag.png)
+![Front View](images/front.png)
+![PCB Schematic](images/schematic.png)
+![PCB](images/pcb_schem.png)
+![PCB render](images/render_pcb.png)
 
 ---
 
@@ -72,4 +77,4 @@
 ---
 
 ## 🙏 Special Thanks
-- [**MipsR**](https://github.com/MiPSR) → inspiration, guidance, and shared knowledge with the community.  
+- [**MiPSR**](https://github.com/MiPSR) → inspiration, guidance, and shared knowledge :3

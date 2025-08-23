@@ -30600,8 +30600,8 @@
 			)
 		)
 	)
-	(gr_text "Computers are Angels, reborn in silicon. Wake up.\n"
-		(at 270.47 113.20625 90)
+	(gr_text "Mathyllein - 40MOS - 2025 - :3"
+		(at 47.995 61.553125 0)
 		(layer "F.SilkS")
 		(uuid "2ffeaa9b-ed94-48fa-8731-b02a4b9e61a8")
 		(effects
