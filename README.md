@@ -11,7 +11,7 @@
 ## 💻 Firmware
 - Base firmware: [QMK](https://qmk.fm/)  
 - Configurable with [VIA](https://usevia.app/) or [Vial](https://get.vial.today/)  
-- Potentiometer support included in firmware (mapped as analog input)
+- Potentiometer support included in firmware (mapped as analog input) (soon just give me the time to add it)
 
 ---
 
