@@ -1,4 +1,4 @@
-## 40-MOS (40-MathylleinOrtholinearSlider)
+# 40-MOS (40-MathylleinOrtholinearSlider)
 ---
 
 ## 📐 Layout
@@ -31,6 +31,31 @@
 
 ---
 
+## 🔌 Pro Micro Pinout (Matrix)
+
+| **Row / Col** | **Pin** |
+|---------------|---------|
+| Row 0         | D0      |
+| Row 1         | D1      |
+| Row 2         | D2      |
+| Row 3         | D3      |
+| Col 0         | D4      |
+| Col 1         | C6      |
+| Col 2         | D7      |
+| Col 3         | E6      |
+| Col 4         | B4      |
+| Col 5         | B5      |
+| Col 6         | B6      |
+| Col 7         | B2      |
+| Col 8         | B3      |
+| Col 9         | B1      |
+| Col 10        | F7      |
+| Col 11        | F6      |
+
+*(Pro Micro USB-C top-right under the slider)*  
+
+---
+
 ## 📸 Gallery
 *(Add renders / build photos here)*
 
@@ -45,3 +70,6 @@
 - 🎛️ **Extra potentiometers or rotary encoders** for more controls  
 
 ---
+
+## 🙏 Special Thanks
+- [**MipsR**](https://github.com/MiPSR) → inspiration, guidance, and shared knowledge with the community.  
