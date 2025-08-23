@@ -6,8 +6,6 @@
 - Extra right-side **slider potentiometer**
 - Pro Micro (USB-C) placed top-right under the slider
 
-*(Layout image or KLE JSON to be added here)*
-
 ---
 
 ## 💻 Firmware
